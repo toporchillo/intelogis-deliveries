@@ -1,0 +1,5 @@
+/vendor
+.idea
+/tmp
+PHPUnit/log/
+PHPUnit/.phpunit.result.cache

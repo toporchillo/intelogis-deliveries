@@ -1,0 +1,10 @@
+{
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "scripts": {
+    "phpunit": "f:\\Programming\\Ampps\\php74\\php vendor/bin/phpunit --colors=always"
+  }
+}
